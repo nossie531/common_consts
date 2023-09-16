@@ -1,0 +1,10 @@
+[package]
+name = "common_consts"
+version = "0.1.0"
+authors = ["Nossie531"]
+edition = "2021"
+description = "Constants used in daily life."
+repository = "https://github.com/nossie531/common_consts"
+license = "MIT OR Apache-2.0"
+keywords = ["const"]
+categories = ["no-std"]
