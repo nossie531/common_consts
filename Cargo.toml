@@ -1,8 +1,8 @@
 [package]
 name = "common_consts"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Nossie531"]
-edition = "2021"
+edition = "2024"
 description = "Constants used in daily life."
 repository = "https://github.com/nossie531/common_consts"
 license = "MIT OR Apache-2.0"

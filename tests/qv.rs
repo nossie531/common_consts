@@ -1,4 +1,4 @@
-use common_consts::qv;
+use common_consts::prelude::*;
 
 #[test]
 fn test() {

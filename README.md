@@ -35,3 +35,8 @@ Frequency values (In `fv` module).
 ## Notes
 
 Specific values for each constants may change in future versions.
+
+## What's new
+
+* Rust edition is updated to 2024.
+* Add `prelude` module (Although this crate is very small).
