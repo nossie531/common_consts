@@ -13,5 +13,5 @@ fn test() {
         fv::ALWAYS,
     ];
 
-    assert!(values.windows(2).all(|w| w[0] < w[1]));
+    assert!(values.is_sorted());
 }
